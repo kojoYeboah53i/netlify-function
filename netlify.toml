@@ -1,0 +1,9 @@
+[build]
+ publish="dist"
+ functions="functions"
+
+[[redirects]]
+  from = "/codjo"
+  to = "/http://www.codjosoft.tech"
+  status = 200
+  force = false

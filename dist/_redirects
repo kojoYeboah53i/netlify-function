@@ -1,0 +1,7 @@
+/home              /
+/blog/my-post.php  /blog/my-post
+/news              /blog
+/cuties            https://www.petsofnetlify.com 200
+/codjo             http://www.codjosoft.tech 200
+/api/* https://jsonplaceholder.typicode.com/:splat 200
+/getword /.netlify/functions/getword/getword.js 200
