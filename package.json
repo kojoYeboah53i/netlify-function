@@ -1,0 +1,19 @@
+{
+  "name": "netlify-function",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kojoYeboah53i/netlify-function.git"
+  },
+  "author": "Isaac yeboah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kojoYeboah53i/netlify-function/issues"
+  },
+  "homepage": "https://github.com/kojoYeboah53i/netlify-function#readme"
+}
